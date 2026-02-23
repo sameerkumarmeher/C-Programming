@@ -86,23 +86,23 @@ Source Code → Preprocessing → Compilation → Linking → Executable File
 
 ### 🔹 Step 5: Compile Command
 
-g++ main.cpp -o program
+- g++ main.cpp -o program
 
-./program
+- ./program
 
-program.exe
+- program.exe
 
 ---
 
 # 🟢 4️⃣ Structure of a C++ Program
 - A basic C++ program follows this structure:
-#include <iostream>
-using namespace std;
+- #include <iostream>
+- using namespace std;
 
-int main() {
-    cout << "Hello, World!";
-    return 0;
-}
+- int main() {
+-    cout << "Hello, World!";
+-    return 0;
+- }
 
 ### 🔍 Components Explained
 
@@ -122,10 +122,10 @@ int main() {
 - Program execution always begins from this function.
 
 ### 🔹 Basic Syntax
-int main() {
-    // Code starts here
-    return 0;
-}
+- int main() {
+-     // Code starts here
+-    return 0;
+- }
 
 ---
 
@@ -150,7 +150,7 @@ int main() {
 
 ### 🔹 Example
  
-#include <iostream>
+- #include <iostream>
 
 # 📚 Common Header Files
 
