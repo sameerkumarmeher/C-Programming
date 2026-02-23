@@ -84,9 +84,7 @@ Source Code → Preprocessing → Compilation → Linking → Executable File
 ### 🔹 Step 4: Execution
 - Program runs from the executable file
 
----
-
-### 💻 Compile Command
+### 🔹 Step 5: Compile Command
 
 ```bash
 g++ main.cpp -o program
@@ -97,3 +95,4 @@ g++ main.cpp -o program
 
 ▶ Run the Program (Windows)
 program.exe
+
