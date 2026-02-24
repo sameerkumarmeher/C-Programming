@@ -213,6 +213,6 @@
 ---
 Since you have ~3 years experience:
 
-✅ 60% focus → DSA
-✅ 25% focus → Advanced C++
-✅ 15% focus → LLD
+- ✅ 60% focus → DSA
+- ✅ 25% focus → Advanced C++
+- ✅ 15% focus → LLD
