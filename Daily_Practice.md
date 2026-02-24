@@ -1,5 +1,7 @@
 ## 🔥 SECTION 1: C++ Fundamentals (Language Core)
 
+---
+
 - What is the difference between C and C++?
 
 - What are the features of OOP?
@@ -52,6 +54,8 @@
 
 ## 🔥 SECTION 2: Memory Management & Pointers
 
+---
+
 - What is stack vs heap memory?
 
 - What is new vs malloc?
@@ -83,6 +87,8 @@
 - What is memory alignment?
 
 ## 🔥 SECTION 3: STL (Very Important for Interviews)
+
+---
 
 - Difference between vector and array?
 
@@ -116,6 +122,8 @@
 
 ## 🔥 SECTION 4: Advanced C++
 
+---
+
 - What are templates?
 
 - What is template specialization?
@@ -148,6 +156,8 @@
 
 ## 🔥 SECTION 5: OOPS + Design
 
+---
+
 - What are SOLID principles?
 
 - What is Singleton pattern?
@@ -169,6 +179,8 @@
 - What is Open Closed Principle?
 
 ## 🔥 SECTION 6: DSA Coding Questions (MUST DO)
+
+---
 
 - Reverse a linked list
 
@@ -210,6 +222,8 @@
 
 
 ## 📌 How You Should Prepare (Smart Way)
+
+---
 
 Since you have ~3 years experience:
 
